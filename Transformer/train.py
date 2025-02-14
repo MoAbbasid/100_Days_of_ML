@@ -215,9 +215,9 @@ def train_model(config):
                # Update step
                optimizer.step()
 
-               run_validation(model, val_dl, token_src, token_tgt, config['seq_len'], device, lambda msg: batch_iterator.write(msg), global_step, writer, )
 
                global_step += 1
+          run_validation(model, val_dl, token_src, token_tgt, config['seq_len'], device, lambda msg: batch_iterator.write(msg), global_step, writer, )
 
      # save the model
      model_filename = get_weights(config, f'{epoch:02d}')
