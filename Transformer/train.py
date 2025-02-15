@@ -100,7 +100,7 @@ def get_or_build_tokenizer(config, ds, lang):
      tokenizer_path = Path(config["tokenizer_file"].format(lang))
      if not Path.exists(tokenizer_path):
           tokenizer = Tokenizer(WordLevel(unk_token='[UNK]'))
-          tokenizer.pre_tokenizers = Whitespace()
+          tokenizer.pre_tokenizer = Whitespace()
           trainer = WordLevelTrainer(special_tokens=["[UNK]","[PAD]","[SOS]","[EOS]"], min_frequency=2)
           tokenizer.train_from_iterator(get_all_senteces(ds, lang), trainer=trainer)
           tokenizer.save(str(tokenizer_path))
@@ -141,8 +141,8 @@ def get_ds(config):
           max_len_src = max(max_src_len, len(src_ids))
           max_len_tgt = max(max_tgt_len, len(tgt_ids))
 
-     print(f'Max Len source: {max_len_src}')
-     print(f'Max Len source: {max_len_tgt}')
+     print(f'Max Len source: {max_len_src}\n')
+     print(f'Max Len target: {max_len_tgt}')
 
      train_dataloader = DataLoader(train_ds, batch_size=config['batch_size'], shuffle=True)
      val_dataloader = DataLoader(val_ds, batch_size=1)
