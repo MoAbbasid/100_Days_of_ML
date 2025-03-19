@@ -13,7 +13,7 @@ This repository documents my journey through 100 days of learning and implementi
 
 | Day      | Progress & Notes | Status |
 |----------|-----------------|--------|
-| Day 1    | Started implementing the Transformer model from scratch following "Attention is All You Need" paper. Created core components: multi-head attention mechanism with scaled dot-product attention, positional encoding with sine and cosine functions. Implemented layer normalization and the feed-forward network with ReLU activation. | ✅ Completed |
+|  Day 1    | Started implementing the Transformer model from scratch following "Attention is All You Need" paper. Created core components: multi-head attention mechanism with scaled dot-product attention, positional encoding with sine and cosine functions. Implemented layer normalization and the feed-forward network with ReLU activation. | ✅ Completed |
 | Day 2    | Continued Transformer implementation. Built the encoder stack with multi-head attention, residual connections, and layer normalization. Created the decoder with masked multi-head attention and encoder-decoder attention. Designed the final linear and softmax output layers. | ✅ Completed |
 | Day 3    | Completed and tested the Transformer model implementation. Added input/output embedding with weight sharing. Created utilities for sequence padding and masking. Verified model output shapes and connections. Examined the complexity and architecture of the full transformer pipeline. | ✅ Completed |
 | Day 4    | Started implementing Vision Transformer (ViT) architecture. Created patch embedding layer to convert images into sequence of embeddings. Built positional embedding layer for maintaining spatial information. Added class token for image classification. | ✅ Completed |
