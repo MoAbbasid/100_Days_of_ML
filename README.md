@@ -20,7 +20,9 @@ This repository documents my journey through 100 days of learning and implementi
 | Day 5    | Continued ViT implementation. Constructed transformer encoder with self-attention blocks and MLP layers. Added layer normalization layers at appropriate positions. Implemented residual connections throughout the architecture. | ✅ Completed |
 | Day 6    | Completed ViT implementation and conducted basic testing. Verified patch embedding functionality, positional encoding, and transformer blocks. Added classification head (MLP) with layer normalization. Ensured proper dimensions throughout the network. Documented architecture and implementation details. | ✅ Completed |
 | Day 7    | Beginning Flash Attention implementation to optimize transformer processing speed and memory usage. | 🔄 In Progress |
-| Day 8    |  |  |
+| Day 8    | Continuation of Flash Attention, implementing the forward pass in Blocks using Triton | 🔄 In Progress |
+| Day 9    |  |  |
+
 
 ## Current Focus: Flash Attention Implementation
 
