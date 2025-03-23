@@ -19,9 +19,13 @@ This repository documents my journey through 100 days of learning and implementi
 | Day 4    | Started implementing Vision Transformer (ViT) architecture. Created patch embedding layer to convert images into sequence of embeddings. Built positional embedding layer for maintaining spatial information. Added class token for image classification. | ✅ Completed |
 | Day 5    | Continued ViT implementation. Constructed transformer encoder with self-attention blocks and MLP layers. Added layer normalization layers at appropriate positions. Implemented residual connections throughout the architecture. | ✅ Completed |
 | Day 6    | Completed ViT implementation and conducted basic testing. Verified patch embedding functionality, positional encoding, and transformer blocks. Added classification head (MLP) with layer normalization. Ensured proper dimensions throughout the network. Documented architecture and implementation details. | ✅ Completed |
-| Day 7    | Beginning Flash Attention implementation to optimize transformer processing speed and memory usage. | 🔄 In Progress |
-| Day 8    | Continuation of Flash Attention, implementing the forward pass in Blocks using Triton | 🔄 In Progress |
-| Day 9    | Continuation of Falsh Attention (5:16), Jacobian through MatMul | 🔄 In Progress |
+| Day 7    | Beginning Flash Attention implementation to optimize transformer processing speed and memory usage. | ✅ Completed |
+| Day 8    | Continuation of Flash Attention, implementing the forward pass in Blocks using Triton | ✅ Completed |
+| Day 9    | Continuation of Falsh Attention (5:16), Jacobian through MatMul | ✅ Completed |
+| Day 10    | Completed Falsh Attention | ✅ Completed |
+| Day 11    | revision of Falsh Attention indexing, specially on the backwards pass | ✅ Completed |
+
+
 
 
 ## Current Focus: Flash Attention Implementation
