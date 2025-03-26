@@ -26,6 +26,8 @@ This repository documents my journey through 100 days of learning and implementi
 | Day 11    | revision of Falsh Attention indexing, specially on the backwards pass | ✅ Completed |
 | Day 12    | Began the Huggingface Agents course: [hf smollagents)(https://huggingface.co/learn/agents-course) | ✅ Completed |
 | Day 13    | Completed unit 1 of the course: <img width="1122" alt="image" src="https://github.com/user-attachments/assets/89c9b31c-970a-4df5-b975-d265b9b4e355" />| ✅ Completed |
+| Day 14   | Halfway through Unit2, smolagents framework |  |
+
 
 
 
