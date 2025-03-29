@@ -24,11 +24,13 @@ This repository documents my journey through 100 days of learning and implementi
 | Day 9    | Continuation of Falsh Attention (5:16), Jacobian through MatMul | ✅ Completed |
 | Day 10    | Completed Falsh Attention | ✅ Completed |
 | Day 11    | revision of Falsh Attention indexing, specially on the backwards pass | ✅ Completed |
-| Day 12    | Began the Huggingface Agents course: [hf smollagents)(https://huggingface.co/learn/agents-course) | ✅ Completed |
+| Day 12    | Began the Huggingface Agents course: [![Hugging Face Agents](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Agents-yellow)](https://huggingface.co/learn/agents-course) | ✅ Completed |
 | Day 13    | Completed unit 1 of the course: <img width="1122" alt="image" src="https://github.com/user-attachments/assets/89c9b31c-970a-4df5-b975-d265b9b4e355" />| ✅ Completed |
 | Day 14   | Halfway through Unit2, smolagents framework | ✅ Completed |
-| Day 15   | developing an agent using smolagent | in progress |
-| Day 16  | developing an agent using smolagent | in progress |
+| Day 15   | developing an agent using smolagent | ✅ Completed  |
+| Day 16  | developing an agent using smolagent | ✅ Completed  |
+| Day 17  | developed Height Compare Agent: [![Height Compare Agent](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Abbasid/HeightCompareAgent) | ✅ Completed  |
+
 
 
 
