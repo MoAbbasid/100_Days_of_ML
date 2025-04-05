@@ -32,6 +32,8 @@ This repository documents my journey through 100 days of learning and implementi
 | Day 17  | developed Height Compare Agent: [![Height Compare Agent](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Abbasid/HeightCompareAgent) | ✅ Completed  |
 | Day 18  | developing an agent using LlamaIndex | In Progress  |
 | Day 19  | some Agent work and gathering data for my CV research| In Progress  |
+| Day 20  | Diverted some time to read some Chapters from Huyen's Designing ML Systems Book| In Progress  |
+
 
 
 
