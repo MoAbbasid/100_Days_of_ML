@@ -1,4 +1,4 @@
-# 100 Days of Deep Learning
+<img width="1363" height="955" alt="image" src="https://github.com/user-attachments/assets/f681f7b5-99e8-4bba-b477-fe4cf7ff4a16" /># 100 Days of Deep Learning
 
 This repository documents my journey through 100 days of learning and implementing various deep learning models and techniques. The goal is to strengthen my understanding of machine learning algorithms, architectures, and practical implementations with PyTorch.
 
@@ -39,7 +39,14 @@ This repository documents my journey through 100 days of learning and implementi
 | Day 24  | finished chapter 6| ✅ Completed  |
 | Day 25  | finished LlamaIndex Unit and built [!LlamaIndex Story Teller](https://moabbasid.github.io/LlamaIndex-StoryTeller/)| ✅ Completed  |
 | Day 26  | Began LangGraph Unit | ✅ Completed  |
-| Day 27  | Develop a LangGraph Agent| In Progress  |
+| Day 27  | Develop a LangGraph Agent| ✅ Completed  |
+| Day 28  | Coding Final GAIA Benchmark Agent| ✅ Completed  |
+| Day 29  | Coding Final GAIA Benchmark Agent| ✅ Completed  |
+| Day 30  | Huggingface Agents course Completed | ✅ Completed  |
+<img width="1363" height="955" alt="image" src="https://github.com/user-attachments/assets/e25c8e46-2445-4680-98c1-3c78f70b80ca" />
+
+
+
 
 
 
