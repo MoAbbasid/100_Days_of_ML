@@ -1,4 +1,4 @@
-<img width="1363" height="955" alt="image" src="https://github.com/user-attachments/assets/f681f7b5-99e8-4bba-b477-fe4cf7ff4a16" /># 100 Days of Deep Learning
+# 100 Days of Deep Learning
 
 This repository documents my journey through 100 days of learning and implementing various deep learning models and techniques. The goal is to strengthen my understanding of machine learning algorithms, architectures, and practical implementations with PyTorch.
 
@@ -42,8 +42,10 @@ This repository documents my journey through 100 days of learning and implementi
 | Day 27  | Develop a LangGraph Agent| ✅ Completed  |
 | Day 28  | Coding Final GAIA Benchmark Agent| ✅ Completed  |
 | Day 29  | Coding Final GAIA Benchmark Agent| ✅ Completed  |
-| Day 30  | Huggingface Agents course Completed | ✅ Completed  |
-<img width="1363" height="955" alt="image" src="https://github.com/user-attachments/assets/e25c8e46-2445-4680-98c1-3c78f70b80ca" />
+| Day 30  | Huggingface Agents course Completed: <img width="1363" height="955" alt="image" src="https://github.com/user-attachments/assets/e25c8e46-2445-4680-98c1-3c78f70b80ca" />| ✅ Completed  |
+| Day 31  | Reading Chollet's Little Deep Learning Book [Little Deep Learning Book](https://fleuret.org/public/lbdl.pdf)| ✅ Completed  |
+
+
 
 
 
